@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quiz Math App</string>
+    <string name="Introduction">Welcome to Quiz Math Application ! </string>
+    <string name="Question1">Question 1</string>
+    <string name="Question1_1">What is The Result equal : 4 x 7 + 12 = ... ? </string>
+    <string name="Question2">Question 2</string>
+    <string name="Question2_1">What is The Result equal : 45 ÷ 5 + 23 = ... ?</string>
+    <string name="Question3">Question 3</string>
+    <string name="Question3_1">Find the common multiple of 2 and 3 = ... ?</string>
+    <string name="Answer3_1"> 6 </string>
+    <string name="Answer3_2"> 5 </string>
+    <string name="Answer3_3"> 7 </string>
+    <string name="Answer3_4"> 12 </string>
+    <string name="Question4">Question 4</string>
+    <string name="Question4_1">Find the common multiple of 3 and 6 = ... ?</string>
+    <string name="Answer4_1"> 18 </string>
+    <string name="Answer4_2"> 6 </string>
+    <string name="Answer4_3"> 14 </string>
+    <string name="Answer4_4"> 20 </string>
+    <string name="Question5">Question 5</string>
+    <string name="Question5_1">Round the numbers off to the nearest ten 115 = ... ?</string>
+    <string name="Question6">Question 6</string>
+    <string name="Question6_1">Round the numbers off to the nearest hundred 23 = ... ?</string>
+</resources>
